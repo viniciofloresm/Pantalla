@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pentagram</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">CM Veterinario Puppy</string>
+    <string name="app_menu">¿Quienes Somos?</string>
+    <string name="app_menu1">Clinica</string>
+    <string name="app_menu2">Servicios</string>
+    <string name="app_menu3">Contacto</string>
+    <string name="app_menu4">Consejos</string>
+    <string name="app_menu5">Links</string>
+    <string name="app_descripcion">Atención Médica especializada
+    y actualizada, amigable. Privilegiamos la
+    Salud de tu mascota y su bienestar, con los mejores consejos y soluciones.
+    </string>
+    <string name="logo">Logo</string>
+
+
+</resources>
